@@ -1,5 +1,5 @@
 {
-  "name": "cloud-functions-schedule-instance",
+  "name": "@google/cloud-functions-schedule-instance",
   "version": "0.1.0",
   "private": true,
   "license": "Apache-2.0",
